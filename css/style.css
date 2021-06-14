@@ -1,0 +1,36 @@
+
+body{
+    background-color:black;
+    color:cornsilk;
+    position: absolute;
+    left: 5%;
+}
+
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight:900;
+}
+
+.filmeSerie{
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sinopse{
+    font-style: italic;
+}
+
+.block{
+    display:block;
+    background-color: rgb(236, 18, 18);
+    margin-right: 15px;
+    border: solid 1px  rgb(245, 242, 245);
+    padding: 8px;
+    font-weight: bold;
+    top: 10%;
+    position: fixed;
+    right:94%;
+
+}
